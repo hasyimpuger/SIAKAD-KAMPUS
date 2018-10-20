@@ -1,4 +1,4 @@
-## Sistem Inforasi Akademik Kampus
+## Sistem Informasi Akademik Kampus
 
 #### Developed by Yanyan Sofiyan, M.Kom.
 
